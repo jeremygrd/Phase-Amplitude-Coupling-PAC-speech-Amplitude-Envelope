@@ -2,7 +2,7 @@
 
 In this project we looked at PAC on the speech amplitude envelope across 17 languages.
 
-Data retrieved from [here](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?)
+Data retrieved from [‘www.faithcomesbyhearing.com'](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?)
 
 We selected recordings which did not contain any sound effects but only plain speech. 
 
@@ -48,8 +48,10 @@ Shoutout to [PacTools] (https://github.com/pactools/pactools)
 
 references
 
-Tort, A. B., Komorowski, R., Eichenbaum, H., & Kopell, N. (2010). Measuring phase-amplitude coupling between neuronal oscillations of different frequencies. Journal of neurophysiology, 104(2), 1195-1210.
 
 Dupré la Tour, T., Tallot, L., Grabot, L., Doyère, V., Van Wassenhove, V., Grenier, Y., & Gramfort, A. (2017). Non-linear auto-regressive models for cross-frequency coupling in neural time series. PLoS computational biology, 13(12), e1005893.
 
+Gilbert, G., & Lorenzi, C. (2006). The ability of listeners to use recovered envelope cues from speech fine structure. The Journal of the Acoustical Society of America, 119(4), 2438-2444.
+
+Tort, A. B., Komorowski, R., Eichenbaum, H., & Kopell, N. (2010). Measuring phase-amplitude coupling between neuronal oscillations of different frequencies. Journal of neurophysiology, 104(2), 1195-1210.
 
