@@ -4,7 +4,9 @@ Phase Amplitude Coupling (PAC) speech Amplitude Envelope
 In this project we looked at PAC on the speech amplitude envelope across multiple languages.
 
 data retrieved from [here](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?)
+
 We selected the specific versions of the recordings which did not contain any sound effects but only plain speech. 
+
 languages: [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
 
@@ -30,7 +32,7 @@ zh: Chinese mandarin | 5831 files | 4.86 hours |
 
 
     
-audiofiles were then transform to mono, downsampled to 16KHz and cut in pieces of 3 seconds.
+Audiofiles were then transform to mono, downsampled to 16KHz and cut in pieces of 3 seconds.
 Speech Amplitude envelopes were computed on the audiofiles using code from 
 Speech Amplitude envelope data was downsampled to 512Hz. 
 Then PAC (Tort et al., 2010)  was computed on the concatenated segments for each language and 200 permutations were created by shuffling the phases of the signal.
