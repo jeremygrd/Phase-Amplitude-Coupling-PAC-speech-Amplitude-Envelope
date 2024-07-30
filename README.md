@@ -39,11 +39,14 @@ Speech Amplitude envelopes were computed on the audiofiles using Matlab code.
 Speech Amplitude envelope data was downsampled to 512Hz. 
 
 Then PAC (Tort et al., 2010)  was computed on the concatenated segments for each language
+
 200 permutations were created by shuffling the phases of the signal.
 
-Shoutout to https://github.com/pactools/pactools
+Shoutout to [PacTools] (https://github.com/pactools/pactools)
 
-ref:
+
+
+references
 
 Tort, A. B., Komorowski, R., Eichenbaum, H., & Kopell, N. (2010). Measuring phase-amplitude coupling between neuronal oscillations of different frequencies. Journal of neurophysiology, 104(2), 1195-1210.
 
