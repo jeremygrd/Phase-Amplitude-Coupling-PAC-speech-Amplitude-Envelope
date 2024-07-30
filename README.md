@@ -7,23 +7,41 @@ data retrieved from https://www.faithcomesbyhearing.com/audio-bible-resources/mp
 We selected the specific versions of the recordings which did not contain any sound effects but only plain speech. 
 languages: ISO 639-1  https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
+------------------------------------------------
 ar: arabic           | 7224 files | 6.02 hours |
+------------------------------------------------
 en: English          | 6078 files | 5.06 hours |
+------------------------------------------------
 es: Spanish          | 6767 files | 5.64 hours |
+------------------------------------------------
 eu: Basque           | 6573 files | 5.47 hours |
+------------------------------------------------
 fi: Finnish          | 7393 files | 6.16 hours |
+------------------------------------------------
 fr: French           | 5606 files | 4.67 hours |
+------------------------------------------------
 hi: Hindi            | 6783 files | 5.65 hours |
+------------------------------------------------
 hy: Armenian         | 6346 files | 5.28 hours |
+------------------------------------------------
 ja: Japanese         | 7758 files | 6.46 hours |
+------------------------------------------------
 ko: Korean           | 7172 files | 5.97 hours |
+------------------------------------------------
 nl: Dutch            | 6611 files | 5.50 hours |
+------------------------------------------------
 ru: Russian          | 9039 files | 7.53 hours |
+------------------------------------------------
 sv: Swedish          | 5322 files | 4.43 hours |
+------------------------------------------------
 ta: Tamil            | 10571 files| 8.81 hours |
+------------------------------------------------
 th: Thai             | 8072 files | 6.72 hours |
+------------------------------------------------
 vi: Vietnamese       | 6268 files | 5.22 hours |
+------------------------------------------------
 zh: Chinese mandarin | 5831 files | 4.86 hours |
+------------------------------------------------
     
 audiofiles were then transform to mono, downsampled to 16KHz and cut in pieces of 3 seconds.
 Speech Amplitude envelopes were computed on the audiofiles using code from 
