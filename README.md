@@ -42,11 +42,12 @@ Then PAC (Tort et al., 2010)  was computed on the concatenated segments for each
 
 200 permutations were created by shuffling the phases of the signal.
 
-Shoutout to [PacTools] (https://github.com/pactools/pactools)
+Shoutout to [PacTools](https://github.com/pactools/pactools)
 
 
 
-references
+
+**references**
 
 
 Dupré la Tour, T., Tallot, L., Grabot, L., Doyère, V., Van Wassenhove, V., Grenier, Y., & Gramfort, A. (2017). Non-linear auto-regressive models for cross-frequency coupling in neural time series. PLoS computational biology, 13(12), e1005893.
