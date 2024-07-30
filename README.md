@@ -38,6 +38,8 @@ Speech Amplitude envelopes were computed on the audiofiles using Matlab code.
 
 Speech Amplitude envelope data was downsampled to 512Hz. 
 
+Speech Amplitude envelope dataset is available [here](https://huggingface.co/datasets/jg07/SpeechAmplitueEnvelope17Languages)
+
 Then PAC (Tort et al., 2010)  was computed on the concatenated segments for each language
 
 200 permutations were created by shuffling the phases of the signal.
