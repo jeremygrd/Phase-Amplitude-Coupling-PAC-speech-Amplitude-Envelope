@@ -7,7 +7,6 @@ data retrieved from https://www.faithcomesbyhearing.com/audio-bible-resources/mp
 We selected the specific versions of the recordings which did not contain any sound effects but only plain speech. 
 languages: ISO 639-1  https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
 
-------------------------------------------------
 ar: arabic           | 7224 files | 6.02 hours |
 ------------------------------------------------
 en: English          | 6078 files | 5.06 hours |
