@@ -3,9 +3,9 @@ Phase Amplitude Coupling (PAC) speech Amplitude Envelope
 
 In this project we looked at PAC on the speech amplitude envelope across multiple languages.
 
-data retrieved from [here]([https://pages.github.com/](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?). 
+data retrieved from [here](https://www.faithcomesbyhearing.com/audio-bible-resources/mp3-downloads?)
 We selected the specific versions of the recordings which did not contain any sound effects but only plain speech. 
-languages: ISO 639-1  https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
+languages: [ISO 639-1](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 
 
 language             | nb of files| duration   |
